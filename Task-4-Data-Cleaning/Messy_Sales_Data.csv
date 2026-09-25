@@ -1,0 +1,29 @@
+Order_ID,Customer_Name,City,Order_Date,Product,Quantity,Sales
+1001,  Asha ,Mumbai,12/01/2026,Laptop,2,75000.0
+1002,Rahul,mumbai,2026-01-15,Mouse,5,5000.0
+1003,Priya,MUMBAI ,18-01-2026,Keyboard,3,4500.0
+1004,Amit,Pune,01/22/2026,Monitor,2,30000.0
+1005,Neha,pune,25/01/2026,Laptop,1,72000.0
+1006,Rohan,Nashik,2026/01/28,Mouse,4,4000.0
+1007,Sneha,Nashik,30-01-2026,Keyboard,2,3000.0
+1008,Vikas,Mumbai,02/02/2026,Monitor,1,15000.0
+1009,Kiran,Pune,2026-02-05,Laptop,1,70000.0
+1010,Pooja,pune ,08/02/2026,Mouse,6,6000.0
+1011,Arjun,Nashik,12/02/2026,Keyboard,2,
+1012,Meena,Mumbai,2026-02-15,Monitor,2,28000.0
+1001,  Asha ,Mumbai,12/01/2026,Laptop,2,75000.0
+1014,Ravi, PUNE,20/02/2026,Laptop,1,68000.0
+1015,Isha,Nashik,2026/02/22,Mouse,3,3000.0
+1016,  Om ,Mumbai,25-02-2026,Keyboard,4,6000.0
+1017,Tina,Pune,02/28/2026,Monitor,1,
+1018,Sahil,NASHIK ,2026-03-02,Laptop,1,69000.0
+1019,Riya,Mumbai,05/03/2026,Mouse,5,5000.0
+1020,Dev,Pune,2026/03/08,Keyboard,2,3200.0
+1001,  Asha ,Mumbai,12/01/2026,Laptop,2,75000.0
+1022,Kabir,Nashik,15-03-2026,Monitor,2,29000.0
+1023,Nikita,mumbai,2026-03-18,Laptop,1,71000.0
+1024,Varun,Pune ,20/03/2026,Mouse,4,4000.0
+1025,Anjali,Nashik,2026/03/22,Keyboard,3,4800.0
+1026,Sonal,MUMBAI,25-03-2026,Monitor,1,14000.0
+1027,Manav,Pune,03/28/2026,Laptop,1,73000.0
+1028,Diya,Nashik,2026-03-30,Mouse,2,2000.0
